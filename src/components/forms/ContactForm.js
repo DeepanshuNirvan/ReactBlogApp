@@ -1,6 +1,6 @@
 export default function ContactForm() {
     return (
-        <div className="container d-flex justify-content-center" style={{"margin-top":"8%","margin-bottom":"4%"}}>
+        <div className="container d-flex justify-content-center" style={{ "marginTop": "8%", "marginBottom": "4%" }}>
             <div className="w-50 border rounded bg-dark shadow-lg">
                 <form className="m-5">
                     <div className="mb-3">
